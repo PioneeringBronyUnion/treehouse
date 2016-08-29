@@ -1,10 +1,2 @@
-This file should only exist in Treehouse_Test branch.
-YOOOOOOOOOO
-I hope my friends could be happy
-<<<<<<< HEAD
-If you could stand for your friends
-=======
-If you could stand for your friends
 Dragon is very cute!!!
 Dragon is lovely
->>>>>>> treehouse_test

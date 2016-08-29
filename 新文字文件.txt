@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-EG4 WILL AIR ON 2016
-=======
 EG4 AIR ON 2016
->>>>>>> treehouse_test
